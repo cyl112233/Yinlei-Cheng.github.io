@@ -29,7 +29,7 @@ My research interests lie in computer vision and agent-based systems, with a par
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2026</div><img src='images/500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MRAFnd: Multimodal Retrieval-Augmented Framework for Zero-Shot Fake News Detection](https://mmm2026.cz/acceptedPapers.html)
