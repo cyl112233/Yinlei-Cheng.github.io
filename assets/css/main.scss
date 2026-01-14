@@ -107,3 +107,19 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.like-container {
+  font-size: 28px;
+  cursor: pointer;
+  user-select: none;
+}
+
+#heart {
+  color: #999;
+  transition: transform 0.2s, color 0.2s;
+}
+
+#heart.liked {
+  color: #e25555;
+  transform: scale(1.2);
+}
