@@ -19,7 +19,7 @@ redirect_from:
 
 My research interests lie in computer vision and agent-based systems, with a particular focus on vision-language-action (VLA) techniques for cross-modal perception and interaction. From the perspective of Control Science and Engineering, I aim to bridge perception and decision-making with requirements on robustness, safety, and reliable control in complex environments. I am supervised by Prof. Nan Ma.
 
-
+<span class="anchor" id="news"></span>
 # 🔥 News
 
 I will continue to work diligently and move forward steadfastly on the path of scientific research.
@@ -28,6 +28,7 @@ I will continue to work diligently and move forward steadfastly on the path of s
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+<span class="anchor" id="publications"></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2026</div><img src='images/500300.png' alt="sym" width="100%"></div></div>
@@ -46,17 +47,21 @@ Zhang, Lehan; **Cheng, Yinlei**; Hu, Shiqi; Zhou, Yiheng; Li, Shangxi; Zhao, Nai
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 --> 
 
+<span class="anchor" id="honors-and-awards"></span>
 # 🎖 Honors and Awards
 - *2025.10* Received the National Scholarship for Graduate Students.
 - *2025.11* Received the Graduate Academic Scholarship.
 
+<span class="anchor" id="educations"></span>
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Beijing Institute of Fashion Technology, School of Artificial Intelligence and Innovative Design, Mechatronic Engineering.. 
 - *2021.09 - 2023.06*, Shandong Jiaotong University, School of Information Science and Electrical Engineering, Electrical Automation. 
 
+<span class="anchor" id="invited-talks"></span>
 # 💬 Invited Talks
 #- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+<span class="anchor" id="internships"></span>
 # 💻 Internships
 #- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
