@@ -47,6 +47,11 @@ Zhang, Lehan; **Cheng, Yinlei**; Hu, Shiqi; Zhou, Yiheng; Li, Shangxi; Zhao, Nai
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 --> 
 
+<div class="like-container">
+  <span id="heart" onclick="toggleLike()">♡</span>
+</div>
+
+
 <span class="anchor" id="honors-and-awards"></span>
 # 🎖 Honors and Awards
 - *2025.10* Received the National Scholarship for Graduate Students.
