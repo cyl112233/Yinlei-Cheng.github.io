@@ -47,28 +47,6 @@ Zhang, Lehan; **Cheng, Yinlei**; Hu, Shiqi; Zhou, Yiheng; Li, Shangxi; Zhao, Nai
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 --> 
 
-<div class="like-container">
-  <span id="heart" onclick="toggleLike()">♡</span>
-</div>
-<style>
-.like-container {
-  margin-top: 10px;
-  font-size: 28px;
-  cursor: pointer;
-  user-select: none;
-}
-
-#heart {
-  color: #999;
-  transition: transform 0.2s ease, color 0.2s ease;
-}
-
-#heart.liked {
-  color: #e25555;
-  transform: scale(1.2);
-}
-</style>
-
 
 <span class="anchor" id="honors-and-awards"></span>
 # 🎖 Honors and Awards
