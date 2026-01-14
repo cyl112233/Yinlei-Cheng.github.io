@@ -50,6 +50,24 @@ Zhang, Lehan; **Cheng, Yinlei**; Hu, Shiqi; Zhou, Yiheng; Li, Shangxi; Zhao, Nai
 <div class="like-container">
   <span id="heart" onclick="toggleLike()">♡</span>
 </div>
+<style>
+.like-container {
+  margin-top: 10px;
+  font-size: 28px;
+  cursor: pointer;
+  user-select: none;
+}
+
+#heart {
+  color: #999;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+#heart.liked {
+  color: #e25555;
+  transform: scale(1.2);
+}
+</style>
 
 
 <span class="anchor" id="honors-and-awards"></span>
@@ -75,3 +93,4 @@ Updates in progress......
 
 <!-- #- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 --> 
+<script src="{{ site.baseurl }}/assets/js/like.js"></script>
