@@ -1,23 +1,33 @@
 # main links links
 main:
   - title: "About Me"
-    url: "{{ site.baseurl }}/#about-me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "{{ site.baseurl }}/#news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "{{ site.baseurl }}/#publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "{{ site.baseurl }}/#honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "{{ site.baseurl }}/#educations"
+    url: "/#educations"
 
   - title: "Invited Talks"
-    url: "{{ site.baseurl }}/#invited-talks"
+    url: "/#invited-talks"
 
   - title: "Internships"
-    url: "{{ site.baseurl }}/#internships"
+    url: "/#internships"
+
+
+
+
+
+
+
+
+
+
 
