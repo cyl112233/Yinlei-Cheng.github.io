@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests lie in computer vision and agent-based systems, with a particular focus on vision-language-action (VLA) techniques for cross-modal perception and interaction. From the perspective of Control Science and Engineering, I aim to bridge perception and decision-making with requirements on robustness, safety, and reliable control in complex environments. I am supervised by Prof. Nan Ma.
+My research interests lie in computer vision and agent-based systems, with a particular focus on vision-language-action (VLA) techniques for cross-modal perception and interaction. From the perspective of Control Science and Engineering, I aim to bridge perception and decision-making with requirements on robustness, safety, and reliable control in complex environments. 
 
 <span class="anchor" id="news"></span>
 # 🔥 News
@@ -55,7 +55,8 @@ Zhang, Lehan; **Cheng, Yinlei**; Hu, Shiqi; Zhou, Yiheng; Li, Shangxi; Zhao, Nai
 
 <span class="anchor" id="educations"></span>
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Beijing Institute of Fashion Technology, School of Artificial Intelligence and Innovative Design, Mechatronic Engineering.. 
+- *2026.09 - ******, Beijing Jiaotong University, School of Computer Science and Technology.
+- *2023.09 - 2026.06*, Beijing Institute of Fashion Technology, School of Artificial Intelligence and Innovative Design, Mechatronic Engineering.
 - *2021.09 - 2023.06*, Shandong Jiaotong University, School of Information Science and Electrical Engineering, Electrical Automation. 
 
 <span class="anchor" id="invited-talks"></span>
